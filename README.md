@@ -1,4 +1,8 @@
-# Remix Indie Stack
+# amaro.network
+
+This is my personal project, I'm creating a social media app where users can create links between posts and thus create a traversable context for all posts, allowing self-directed traveling from one post to another without ever going off-topic.
+
+## Remix Indie Stack
 
 ![The Remix Indie Stack](https://repository-images.githubusercontent.com/465928257/a241fa49-bd4d-485a-a2a5-5cb8e4ee0abf)
 
